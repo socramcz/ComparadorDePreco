@@ -1,2 +1,2 @@
-# ComparadorDePreco
-Aplicação que compara preços de combustiveis
+# Comparador De Preco (COMBUSTIVEIS)
+Aplicação mobile utilizando java que compara preços de combustiveis - Etanol e Gasolina
